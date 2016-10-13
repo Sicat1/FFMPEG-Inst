@@ -21,7 +21,7 @@ namespace FFMPEG_Installer
             //Waiting for User Input:
             var input = Console.ReadLine().Trim();
 
-            if(input == "Yes")
+            if(input == "1")
             {
                 if(Directory.Exists(FFMPEGPATH))
                 {
