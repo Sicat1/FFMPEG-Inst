@@ -1,1 +1,6 @@
 D:\Programmierung\Visual Studio\Projekte\FFMPEG Installer\FFMPEG Installer\bin\Debug\FFMPEG Installer.exe.config
+D:\Programmierung\Visual Studio\Projekte\FFMPEG Installer\FFMPEG Installer\bin\Debug\FFMPEG Installer.exe
+D:\Programmierung\Visual Studio\Projekte\FFMPEG Installer\FFMPEG Installer\bin\Debug\FFMPEG Installer.pdb
+D:\Programmierung\Visual Studio\Projekte\FFMPEG Installer\FFMPEG Installer\obj\Debug\FFMPEG Installer.csprojResolveAssemblyReference.cache
+D:\Programmierung\Visual Studio\Projekte\FFMPEG Installer\FFMPEG Installer\obj\Debug\FFMPEG Installer.exe
+D:\Programmierung\Visual Studio\Projekte\FFMPEG Installer\FFMPEG Installer\obj\Debug\FFMPEG Installer.pdb
